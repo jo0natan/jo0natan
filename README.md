@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonatan Villela</h1>
+<h1 align="center">Hi, I'm Jonatan Villela</h1>
 <h3 align="center">Senior Information Security Specialist | Reverse Engineer | Systems Architect | DevSecOps</h3>
 
 <p align="center">
